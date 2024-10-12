@@ -1,4 +1,9 @@
-- ### Hi there, I’m @ChiomzyAbabz
+- ### Hi there
+  
+- ## This is Chioma Ababalu Mary-Cynthia
+  
+- ## I am a Data Analyst/Client Relation Manager
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
