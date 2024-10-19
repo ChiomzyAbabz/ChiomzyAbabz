@@ -18,8 +18,8 @@
 ### Excel
 ### Python
 ### Tableu
-### Power BI
-### SQL
+### Power BI (Business intelligence)
+### SQL(Structured Query language)
 ### R
 ### SPSS (Statistical package for special science)
 
